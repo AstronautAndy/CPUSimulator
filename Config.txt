@@ -1,0 +1,3 @@
+wordSize: 4
+pcIncrementValue: 3
+number_of_generic_registers: 6
